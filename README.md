@@ -11,9 +11,9 @@ Digite os comandos a seguir:
 
 ###Instalação do Django 1.8 - Passo a Passo:
 ####Parte 1 - Instale o PIP:
->`sudo apt-get install python-pip`
+>PIP para python 2.7: `sudo apt-get install python-pip`
 
->`sudo apt-get install python3-pip`
+>PIP para python 3.4: `sudo apt-get install python3-pip`
 
 ####Parte 2  - Instale o virtualenv:
 >Para instalar: `sudo apt-get install python-virtualenv`
