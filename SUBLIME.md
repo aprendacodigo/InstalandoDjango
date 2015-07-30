@@ -8,7 +8,7 @@ Digite os comandos a seguir:
 
 ###Plugins para Sublime Text 3:
 
-####Instalar Package Control:
+####Instalar Package Control
 1. Para instalar o Package Control, acesse https://packagecontrol.io/installation
 2. Reinicie o Sublime Text.
 
