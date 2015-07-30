@@ -13,18 +13,14 @@ Digite os comandos a seguir:
 2. Reinicie o Sublime Text.
 
 ####Instalar AdvancedNewFile
-1.Para instalar o AdvancedNewFile, digite ctrl-shift-p e selecione a opção *Install Package*
-
-2.Selecione o pacote "AdvancedNewFile"
-
-3.Reinicie o Sublime Text.
+1. Para instalar o AdvancedNewFile, digite ctrl-shift-p e selecione a opção *Install Package*
+2. Selecione o pacote "AdvancedNewFile"
+3. Reinicie o Sublime Text.
 
 ####Instalar Emmet
-1.Para instalar o Emmet, digite ctrl-shift-p e selecione a opção *Install Package Control*
-
-2.Selecione o pacote "EMMET"
-
-3.Reinicie o Sublime Text.
+1. Para instalar o Emmet, digite ctrl-shift-p e selecione a opção *Install Package Control*
+2. Selecione o pacote "EMMET"
+3. Reinicie o Sublime Text.
 
 > Para desabilitar um plugin digite ctrl-shift-p e selecione a opção *Disable Package*
 
