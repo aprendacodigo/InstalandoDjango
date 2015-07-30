@@ -26,6 +26,7 @@ link: https://github.com/skuroda/Sublime-AdvancedNewFile
 
 link: http://emmet.io/
 
+####Outras Opções
 > Para desabilitar um plugin digite ctrl-shift-p e selecione a opção *Disable Package*
 
 > Para remover um plugin digite ctrl-shift-p e selecione a opção *Remove Package*
