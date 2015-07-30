@@ -1,14 +1,6 @@
 # InstalandoDjango
 Instalando Django no Ubuntu
 
-###Para instalar o SublimeText 3:
-Digite os comandos a seguir:
->`sudo add-apt-repository ppa:webupd8team/sublime-text-3`
-
->`sudo apt-get update`
-
->`sudo apt-get install sublime-text-installer`
-
 ###Instalação do Django 1.8 - Passo a Passo:
 ####Parte 1 - Instale o PIP:
 >PIP para python 2.7: `sudo apt-get install python-pip`
