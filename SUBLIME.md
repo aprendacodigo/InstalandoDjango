@@ -18,7 +18,7 @@ Digite os comandos a seguir:
 3. Reinicie o Sublime Text.
 
 ####Instalar Emmet
-1. Para instalar o Emmet, digite ctrl-shift-p e selecione a opção *Install Package Control*
+1. Para instalar o Emmet, digite ctrl-shift-p e selecione a opção *Install Package*
 2. Selecione o pacote "EMMET"
 3. Reinicie o Sublime Text.
 
